@@ -10,7 +10,7 @@
 
 - 👩🏻‍💻👨🏻‍💻👩🏻‍💻My career has been characterized by **working in a team**, where I have learned the importance of delegating responsibilities and assuming my own in a collaborative environment.
   
-- 👩🏻‍🎓 Currently, I am studying fullstack development at  [**Factoria F5**](https://factoriaf5.org/) where I am strengthening my skills.
+- 👩🏻‍🎓 Currently, I am studying fullstack development at  [**Factoria F5**](https://factoriaf5.org/) where I'm strengthening my skills.
   
 - 💃🏻 💗 On the other hand I have a passion for 🩰 **Lindy Hop,** a dance that has not only brought me a lot of joy, but has also developed my social skills and my ability to improvise. This community has taught me that, just like in dance, in life there is no success without teamwork and collaboration.
 
